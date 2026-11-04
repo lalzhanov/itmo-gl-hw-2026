@@ -1,0 +1,1 @@
+cmake . -B build-release -G Ninja -DCMAKE_BUILD_TYPE=Release && ninja -C build-release -j24 && ./build-release/itmo-gl-hw-2026
