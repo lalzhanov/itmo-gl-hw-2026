@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/">
-        <file>shaders/template.fs</file>
-        <file>shaders/template.vs</file>
-        <file>textures/cat.jpg</file>
+        <file>shaders/fractal.vs</file>
+        <file>shaders/fractal.fs</file>
     </qresource>
 </RCC>
